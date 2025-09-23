@@ -1,0 +1,45 @@
+leftnav:
+- identifier: 0e515190-d2eb-14de-c85c-efdd17239fc5
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 6b4f9286-3fba-1c85-bb1e-0aae26230815
+  name: Calendar
+  pageRef: /pages/calendar/
+  weight: 20
+- identifier: 80447e39-0a7d-057e-adab-c9f98ad42486
+  name: PATA Preparation Questions
+  pageRef: /pages/calendar/pata-preparation-questions
+  parent: 6b4f9286-3fba-1c85-bb1e-0aae26230815
+  weight: 30
+- identifier: f889b63e-b712-4241-e22b-38170c929117
+  name: Beleza Natural Preparation Questions
+  pageRef: /pages/calendar/beleza-natural-preparation-questions
+  parent: 6b4f9286-3fba-1c85-bb1e-0aae26230815
+  weight: 40
+- identifier: d302e01a-9bd3-5bbe-e1ee-8abc76ae5590
+  name: Inventory Management Case Preparation Questions
+  pageRef: /pages/calendar/inventory-management-case-preparation-questions
+  parent: 6b4f9286-3fba-1c85-bb1e-0aae26230815
+  weight: 50
+- identifier: 969c86b9-7cab-2696-54d3-885d7dd95ab5
+  name: Lean Process Improvements Preparation Questions
+  pageRef: /pages/calendar/lean-process-improvements
+  parent: 6b4f9286-3fba-1c85-bb1e-0aae26230815
+  weight: 60
+- identifier: cb6ee4b9-0fa8-80c8-e22d-f25e16f22449
+  name: Supplemental Readings
+  pageRef: /pages/supplemental-readings
+  weight: 70
+- identifier: 9d54c492-86e3-564e-7450-5af7bcc9ba3d
+  name: Lecture Notes
+  pageRef: /pages/lecture-notes
+  weight: 80
+- identifier: 018e9898-1f4b-7421-3a5c-67dc7735ca78
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 90
+- identifier: 91182200-fcb8-8081-ca3c-7b046dea1a30
+  name: Projects
+  pageRef: /pages/projects
+  weight: 100
