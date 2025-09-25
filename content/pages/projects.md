@@ -42,7 +42,7 @@ SUMMARIES
 2013
 {{< tdclose >}}
 {{< tdopen >}}
-{{% resource_link "8c46a636-64ab-4674-80ed-a732bdbab69b" "Barefoot Power" %}}
+[Barefoot Power](http://www.barefootpower.com/)
 {{< tdclose >}}
 {{< tdopen >}}
 Design of a reverse logistics supply chain for warranty support for solar lamps.
@@ -54,7 +54,7 @@ Design of a reverse logistics supply chain for warranty support for solar lamps.
  
 {{< tdclose >}}
 {{< tdopen >}}
-{{% resource_link "e2661655-e357-4a86-8cb9-51a76096aaf6" "Pure Home Water Filter" %}}
+[Pure Home Water Filter](http://purehomewater.org/)
 {{< tdclose >}}
 {{< tdopen >}}
 Distribution of water filters in Ghana, enabled by micro-financing.
@@ -66,7 +66,7 @@ Distribution of water filters in Ghana, enabled by micro-financing.
  
 {{< tdclose >}}
 {{< tdopen >}}
-{{% resource_link "c5b1158a-5380-4849-9f7c-32e7b3308176" "SolarClave" %}}
+[SolarClave](https://www.techxlab.org/solutions/innovations-in-international-health-solarclave-solar-autoclave)
 {{< tdclose >}}
 {{< tdopen >}}
 Manufacturing and distributing a solar-powered autoclave, for use at health clinics in Nicaragua.
@@ -90,7 +90,7 @@ Development of organic crayons from local ingredients to widen use of pigment to
  
 {{< tdclose >}}
 {{< tdopen >}}
-{{% resource_link "8f9d5cb2-6e76-4821-bb4d-de83f93d6e96" "Essmart" %}}
+[Essmart](http://www.essmart-global.com/)
 {{< tdclose >}}
 {{< tdopen >}}
 Essmart makes social impact technologies available in local retail shops so that they reach low-income end users.
