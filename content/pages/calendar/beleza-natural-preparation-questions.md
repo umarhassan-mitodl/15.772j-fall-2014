@@ -1,6 +1,8 @@
 ---
 content_type: page
 description: Preparation questions for a case study of Beleza Natural.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Calendar

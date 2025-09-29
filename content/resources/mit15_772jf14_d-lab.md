@@ -4,6 +4,8 @@ description: This file contains information regarding d-lab inventory.
 file: /courses/15-772j-d-lab-supply-chains-fall-2014/79139b0c7f7f6089996303561ba16e4f_MIT15_772JF14_D-Lab.xlsx
 file_size: 12000
 file_type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
