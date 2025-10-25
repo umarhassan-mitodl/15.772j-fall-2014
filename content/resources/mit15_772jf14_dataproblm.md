@@ -4,8 +4,6 @@ description: This file contains information regarding data for problems 2 and 3.
 file: /courses/15-772j-d-lab-supply-chains-fall-2014/be1eafb71f3bc71a9cb419b9153f7980_MIT15_772JF14_DataProblm.xlsx
 file_size: 10275
 file_type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

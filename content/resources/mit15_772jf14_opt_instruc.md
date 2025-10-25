@@ -4,8 +4,6 @@ description: This file contains information regarding OPT game instruction.
 file: /courses/15-772j-d-lab-supply-chains-fall-2014/682f98d819c265d8a3a784d9e3f231eb_MIT15_772JF14_OPT_Instruc.pdf
 file_size: 790139
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

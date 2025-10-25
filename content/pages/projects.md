@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides a description of the term project required for
   the course and examples of recent projects.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 ocw_type: CourseSection

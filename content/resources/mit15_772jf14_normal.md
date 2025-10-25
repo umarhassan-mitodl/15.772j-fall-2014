@@ -5,8 +5,6 @@ description: This file contains information regarding derivation of newsboy cost
 file: /courses/15-772j-d-lab-supply-chains-fall-2014/1267056956647703b39a55b3b239eb4b_MIT15_772JF14_Normal.pdf
 file_size: 783652
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

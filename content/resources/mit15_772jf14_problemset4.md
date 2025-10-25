@@ -5,8 +5,6 @@ description: "This file contains information regarding problem set 4 \u2013 cont
 file: /courses/15-772j-d-lab-supply-chains-fall-2014/a7e803624dbb2a7031c4d5234133b1dc_MIT15_772JF14_ProblemSet4.pdf
 file_size: 85563
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
