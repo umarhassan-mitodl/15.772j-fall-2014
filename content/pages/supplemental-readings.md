@@ -10,11 +10,11 @@ uid: cb6ee4b9-0fa8-80c8-e22d-f25e16f22449
 
 **Supplemental readings:**
 
-Yadav, Prashant, Orla, Stapleton, et al. ["Always Cola, Rarely Essential Medicines: Comparing Medicine and Consumer Product Supply Chains in the Developing World." (PDF)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1656386) _INSEAD The Business School for the World_, 2011.
+Yadav, Prashant, Orla, Stapleton, et al. {{% resource_link "139b6965-b334-44b1-8bea-cdc747bf2ffb" "\"Always Cola, Rarely Essential Medicines: Comparing Medicine and Consumer Product Supply Chains in the Developing World.\" (PDF)" %}} _INSEAD The Business School for the World_, 2011.
 
-Treville, Suzanne De, Ian Smith, et al. "[Applying Operations Management Logic and Tools to Save Lives: A Case Study of the World Health Organization's Global Drug Facility](http://dx.doi.org/10.1016/j.jom.2005.03.004)." _Journal of Operations Management_ 24, no. 4 (2006): 397–406.
+Treville, Suzanne De, Ian Smith, et al. "{{% resource_link "1bc35d0f-4f3f-401c-b5f8-275cbf121a8c" "Applying Operations Management Logic and Tools to Save Lives: A Case Study of the World Health Organization's Global Drug Facility" %}}." _Journal of Operations Management_ 24, no. 4 (2006): 397–406.
 
-Nelson, Jane, Eriko Ishikawa et al. ["Developing Inclusive Business Models: A Review of Coca-Cola's Manual Distribution Centres in Ethiopia and Tanzania." (PDF - 2.3MB)](https://www.hks.harvard.edu/sites/default/files/centers/mrcbg/programs/cri/files/other_10_MDC_report.pdf) CSRI Report No. 38, 2009.
+Nelson, Jane, Eriko Ishikawa et al. {{% resource_link "49993377-4f9c-4fd8-ad93-a93e2d63b1fe" "\"Developing Inclusive Business Models: A Review of Coca-Cola's Manual Distribution Centres in Ethiopia and Tanzania.\" (PDF - 2.3MB)" %}} CSRI Report No. 38, 2009.
 
 **Supplemental materials:**
 

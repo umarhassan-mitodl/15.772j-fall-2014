@@ -62,11 +62,11 @@ We will conduct a supply chain simulation in class.
 {{< tdopen rowspan="2" >}}
 
 
-Sterman, J. D. "[Teaching Takes Off: Flight Simulators for Management Education](http://web.mit.edu/jsterman/www/SDG/beergame.html)." _OR / MS Today_, October 1992, 40–44.
+Sterman, J. D. "{{% resource_link "957bbd75-6ffa-493f-b5ce-9ffd256b4d76" "Teaching Takes Off: Flight Simulators for Management Education" %}}." _OR / MS Today_, October 1992, 40–44.
 
-Beer Game Video Part 1 — Aduartevi. "Business Cycle Part 1." February 22, 2010. YouTube.  Accessed July 2, 2015. [https://www.youtube.com/watch?v=rFyXrFKt5Gw](https://www.youtube.com/watch?v=rFyXrFKt5Gw)
+Beer Game Video Part 1 — Aduartevi. "Business Cycle Part 1." February 22, 2010. YouTube.  Accessed July 2, 2015. {{% resource_link "5e9834b3-4791-498a-aa42-c92ab7d8368d" "https://www.youtube.com/watch?v=rFyXrFKt5Gw" %}}
 
-Beer Game Video Part 2 — "Business Cycle Part 2." February 22, 2010. YouTube.  Accessed July 2, 2015. [https://www.youtube.com/watch?v=cVI-8k2QOTM](https://www.youtube.com/watch?v=rFyXrFKt5Gw)
+Beer Game Video Part 2 — "Business Cycle Part 2." February 22, 2010. YouTube.  Accessed July 2, 2015. {{% resource_link "5e9834b3-4791-498a-aa42-c92ab7d8368d" "https://www.youtube.com/watch?v=cVI-8k2QOTM" %}}
 
 
 {{< tdclose >}}
@@ -109,9 +109,9 @@ Demand Management and Forecasting (Start)
 {{< tdopen rowspan="2" >}}
 
 
-Bass, F. M. "[A New Product Growth for Model Consumer Durables](http://dx.doi.org/10.1287/mnsc.15.5.215)." _Management Science_ 15, no. 5 (1969): 215–27.
+Bass, F. M. "{{% resource_link "b3cc6faf-cf90-4894-a032-26508882b56b" "A New Product Growth for Model Consumer Durables" %}}." _Management Science_ 15, no. 5 (1969): 215–27.
 
-Winter, P. R. "[Forecasting Sales by Exponentially Weighted Moving Averages](http://dx.doi.org/10.1287/mnsc.6.3.324)._" Management Science_ 6, no. 3 (1960): 324–42.
+Winter, P. R. "{{% resource_link "ce0744dd-4c59-4257-b908-435aab2eb819" "Forecasting Sales by Exponentially Weighted Moving Averages" %}}._" Management Science_ 6, no. 3 (1960): 324–42.
 
 
 {{< tdclose >}}
@@ -198,7 +198,7 @@ Process Analysis:
 In class we will conduct a hands-on line design exercise in which you will build paper airplanes.
 {{< tdclose >}}
 {{< tdopen >}}
-"I Love Lucy: Candy Factory" video — Wells, Greg. "I Love Lucy Candy Factory Video wmv." October 17, 2010. YouTube. Accessed July 2, 2015. [https://www.youtube.com/watch?v=HnbNcQlzV-4](https://www.youtube.com/watch?v=HnbNcQlzV-4)
+"I Love Lucy: Candy Factory" video — Wells, Greg. "I Love Lucy Candy Factory Video wmv." October 17, 2010. YouTube. Accessed July 2, 2015. {{% resource_link "cabc8b16-847d-49dd-948e-3844ababa45d" "https://www.youtube.com/watch?v=HnbNcQlzV-4" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Problem set 1 due
@@ -474,9 +474,9 @@ Supply Chain Improvement
 
 Case will be distributed prior to class. See Goentzel, Jarrod, and Jayashankar M. Swaminathan, "UNICEF RUTF Supply Chain (B): Developing a Global Supply Network." UNC Kenan-Flagler Business School Case, January, 2015 for further reference.
 
-[Plumpy Nut on 60 Minutes](http://www.cbsnews.com/news/a-life-saver-called-plumpynut/)
+{{% resource_link "deb15522-9c64-4a41-b603-e37bba485446" "Plumpy Nut on 60 Minutes" %}}
 
-[Plumpy Field](http://www.plumpyfield.com/)
+{{% resource_link "158126ca-cb58-456a-bec2-fb466e737c7f" "Plumpy Field" %}}
 
 
 {{< tdclose >}}
@@ -516,7 +516,7 @@ Introduce case study: Designing a Malaria Intervention Supply Chain
 {{< tdopen rowspan="2" >}}
 
 
-Griffin, J., P. Keskinocak, et al. "[Case Study: Designing a Malaria Intervention Supply Chain](https://acasestudy.com/designing-a-malaria-intervention-supply-chain-a-case-study/)." Georgia Health and Humanitarian Tech Systems.
+Griffin, J., P. Keskinocak, et al. "{{% resource_link "2b19df7b-5f57-426c-aea6-cfa79eafaa16" "Case Study: Designing a Malaria Intervention Supply Chain" %}}." Georgia Health and Humanitarian Tech Systems.
 
 
 {{< tdclose >}}

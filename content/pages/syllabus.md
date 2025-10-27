@@ -39,11 +39,11 @@ Nahmias, Steven. _Production and Operations Analysis_. 4th ed. Burr Ridge, 2000.
 
 Chopra, Sunil, and Peter Meindl. _Supply Chain Management_. 3rd ed. Prentice Hall, 2006. ISBN: 9780131730427.
 
-Shapiro, Jeremy F. _Modeling the Supply Chain_. South-Western College, 2006. ISBN: 9780495126096. \[Preview with [Google Books](http://books.google.com/books?id=XvmY2BQ1Q30C&pg=PAfrontcover)\]
+Shapiro, Jeremy F. _Modeling the Supply Chain_. South-Western College, 2006. ISBN: 9780495126096. \[Preview with {{% resource_link "edb22592-7b3f-404b-9305-960d4f4122dc" "Google Books" %}}\]
 
 Silver, Edward A., David F. Pyke, and Rein Peterson. _Inventory Management and Production Planning and Scheduling_. 3rd ed. Wiley, 1998. ISBN: 9780471119470.
 
-Snyder, Lawrence V., and Zuo-Jun Max Shen. _Fundamentals of Supply Chain Theory_. Wiley, 2011. ISBN: 9780470521304. \[Preview with [Google Books](http://books.google.com/books?id=U7GTrLyVnPMC&pg=PAfrontcover)\]
+Snyder, Lawrence V., and Zuo-Jun Max Shen. _Fundamentals of Supply Chain Theory_. Wiley, 2011. ISBN: 9780470521304. \[Preview with {{% resource_link "aafdca64-97a6-4626-afce-feaf04320bc4" "Google Books" %}}\]
 
 Webster, Scott. _Principles of Supply Chain Management_. Dynamic Ideas, 2009. ISBN: 9780975914670.
 
